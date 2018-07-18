@@ -58,6 +58,7 @@ This will run the server on `http://localhost:5000/`.
 
 All of their API endpoints are listed on the website. The only one's we are concerned about are the ones provided for you in `endpoints.js`.
 - All endpoints are `GET` requests.
+- You need an `Accept` header of type `application/json`.
 - They should be a get to the `url` defined in each object inside the array.
 
 ### Frontend
